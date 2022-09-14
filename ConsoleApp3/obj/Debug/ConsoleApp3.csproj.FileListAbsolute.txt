@@ -1,0 +1,8 @@
+D:\Учеба 2 курс\тест\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\Учеба 2 курс\тест\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\Учеба 2 курс\тест\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\Учеба 2 курс\тест\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\Учеба 2 курс\тест\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+D:\Учеба 2 курс\тест\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Учеба 2 курс\тест\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\Учеба 2 курс\тест\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
