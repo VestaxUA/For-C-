@@ -28,7 +28,7 @@ namespace ConsoleApp3
 
             Console.WriteLine();
 
-            if (nn > nk || nn <= 0)
+            if (nn > nk || nn < 0)
             {
                 if (nn > nk)
                 {
@@ -41,7 +41,7 @@ namespace ConsoleApp3
                 }
                 else
                 {
-                    Console.WriteLine("Помилка : початок ряду не може дорівнювати нулю чи бути меншим за нього");
+                    Console.WriteLine("Помилка : початок ряду не може бути меншим за нуль");
                     Console.WriteLine();
                     Console.WriteLine("Рішення : ");
                     Console.Write("Введіть новий початок ряду, менший за {0} : ", nk);

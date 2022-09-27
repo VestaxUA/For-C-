@@ -1,0 +1,8 @@
+D:\Репозиторій_Валіко\LR3\LR3\LR3\bin\Debug\LR3.exe.config
+D:\Репозиторій_Валіко\LR3\LR3\LR3\bin\Debug\LR3.exe
+D:\Репозиторій_Валіко\LR3\LR3\LR3\bin\Debug\LR3.pdb
+D:\Репозиторій_Валіко\LR3\LR3\LR3\obj\Debug\LR3.csproj.AssemblyReference.cache
+D:\Репозиторій_Валіко\LR3\LR3\LR3\obj\Debug\LR3.csproj.SuggestedBindingRedirects.cache
+D:\Репозиторій_Валіко\LR3\LR3\LR3\obj\Debug\LR3.csproj.CoreCompileInputs.cache
+D:\Репозиторій_Валіко\LR3\LR3\LR3\obj\Debug\LR3.exe
+D:\Репозиторій_Валіко\LR3\LR3\LR3\obj\Debug\LR3.pdb
