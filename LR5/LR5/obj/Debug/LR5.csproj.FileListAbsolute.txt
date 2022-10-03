@@ -1,0 +1,8 @@
+D:\Репозиторій_Валіко\LR5\LR5\bin\Debug\LR5.exe.config
+D:\Репозиторій_Валіко\LR5\LR5\bin\Debug\LR5.exe
+D:\Репозиторій_Валіко\LR5\LR5\bin\Debug\LR5.pdb
+D:\Репозиторій_Валіко\LR5\LR5\obj\Debug\LR5.csproj.AssemblyReference.cache
+D:\Репозиторій_Валіко\LR5\LR5\obj\Debug\LR5.csproj.SuggestedBindingRedirects.cache
+D:\Репозиторій_Валіко\LR5\LR5\obj\Debug\LR5.csproj.CoreCompileInputs.cache
+D:\Репозиторій_Валіко\LR5\LR5\obj\Debug\LR5.exe
+D:\Репозиторій_Валіко\LR5\LR5\obj\Debug\LR5.pdb
