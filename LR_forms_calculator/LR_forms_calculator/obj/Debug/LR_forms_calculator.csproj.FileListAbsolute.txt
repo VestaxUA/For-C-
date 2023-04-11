@@ -1,0 +1,11 @@
+D:\Учеба 2 курс\тест\LR_forms_calculator\LR_forms_calculator\bin\Debug\LR_forms_calculator.exe.config
+D:\Учеба 2 курс\тест\LR_forms_calculator\LR_forms_calculator\bin\Debug\LR_forms_calculator.exe
+D:\Учеба 2 курс\тест\LR_forms_calculator\LR_forms_calculator\bin\Debug\LR_forms_calculator.pdb
+D:\Учеба 2 курс\тест\LR_forms_calculator\LR_forms_calculator\obj\Debug\LR_forms_calculator.csproj.AssemblyReference.cache
+D:\Учеба 2 курс\тест\LR_forms_calculator\LR_forms_calculator\obj\Debug\LR_forms_calculator.csproj.SuggestedBindingRedirects.cache
+D:\Учеба 2 курс\тест\LR_forms_calculator\LR_forms_calculator\obj\Debug\LR_forms_calculator.Form1.resources
+D:\Учеба 2 курс\тест\LR_forms_calculator\LR_forms_calculator\obj\Debug\LR_forms_calculator.Properties.Resources.resources
+D:\Учеба 2 курс\тест\LR_forms_calculator\LR_forms_calculator\obj\Debug\LR_forms_calculator.csproj.GenerateResource.cache
+D:\Учеба 2 курс\тест\LR_forms_calculator\LR_forms_calculator\obj\Debug\LR_forms_calculator.csproj.CoreCompileInputs.cache
+D:\Учеба 2 курс\тест\LR_forms_calculator\LR_forms_calculator\obj\Debug\LR_forms_calculator.exe
+D:\Учеба 2 курс\тест\LR_forms_calculator\LR_forms_calculator\obj\Debug\LR_forms_calculator.pdb
